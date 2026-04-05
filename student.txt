@@ -1,1 +1,2 @@
-//BashCommand Project-Bereket Gebrey
+BashCommand Project-Bereket Gebrey
+selam
